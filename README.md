@@ -4,7 +4,8 @@
 An interactive music recommendation web application built using Machine Learning and Streamlit. The application recommends songs based on the user's selected mood by analyzing audio features such as Energy, Danceability, Tempo, Loudness, Popularity, Acousticness, and more.
 
 Instead of requiring users to search for a song, the application generates recommendations directly from the selected mood, making music discovery simple and intuitive.
-###Live Demo
+
+### Live Demo
 
 * Streamlit App: (Add your deployed Streamlit link here after deployment.)
 
