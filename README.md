@@ -7,7 +7,7 @@ Instead of requiring users to search for a song, the application generates recom
 
 ### Live Demo
 
-* Streamlit App: (Add your deployed Streamlit link here after deployment.)
+* Streamlit App: https://ai-mood-music-recommender-bbronspq4juxuawm9ryzuk.streamlit.app/
 
 ### Features
 
