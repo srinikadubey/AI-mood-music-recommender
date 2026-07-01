@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 
-df = pd.read_csv('light_spotify_dataset.csv')
+pd.read_csv("data/light_spotify_dataset.csv")
 df = df.dropna(subset=["song", "artist"])
 
 
